@@ -1,4 +1,4 @@
-# luuochen570的openWRT自动编译
+# luochen570的openWRT自动编译
 
 - 设备:兆能M2（ZN_M2）
 - 插件内容 openclash passwall vssr luci-theme-argon ttyd turboacc
