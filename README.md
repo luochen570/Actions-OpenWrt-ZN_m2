@@ -1,3 +1,8 @@
+luuochen570的openWRT自动编译
+设备:兆能M2（ZN_M2）
+插件内容 openclash passwall vssr luci-theme-argon ttyd turboacc
+
+
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
