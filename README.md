@@ -1,8 +1,8 @@
 # luuochen570的openWRT自动编译
 
-## 设备:兆能M2（ZN_M2）
-## 插件内容 openclash passwall vssr luci-theme-argon ttyd turboacc
-## 使用[kenzok8](https://github.com/kenzok8/openwrt-packages)常用软件包
+- 设备:兆能M2（ZN_M2）
+- 插件内容 openclash passwall vssr luci-theme-argon ttyd turboacc
+- 使用[kenzok8](https://github.com/kenzok8/openwrt-packages)常用软件包
 
 
 
